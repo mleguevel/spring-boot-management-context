@@ -8,6 +8,6 @@ public class MyConfiguration {
 
     @Bean
     public String myBean() {
-        return "Hello";
+        return "World";
     }
 }
